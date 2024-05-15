@@ -1,1 +1,2 @@
 zabki
+print("żabki")
